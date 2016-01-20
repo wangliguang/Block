@@ -1,0 +1,16 @@
+//
+//  Block.pch
+//  Block
+//
+//  Created by GG on 16/1/15.
+//  Copyright © 2016年 王立广. All rights reserved.
+//
+
+#ifndef Block_pch
+#define Block_pch
+
+#define kMargin 100
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.width
+
+#endif /* Block_pch */
